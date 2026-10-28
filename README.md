@@ -22,5 +22,5 @@ Next.js · TypeScript · Tailwind CSS · Neon Postgres(pgvector) · Auth.js(Goog
 
 | 이름 | 역할 |
 | --- | --- |
-| 유정아 (팀장) | 구현 |
-| 팀원 | 기획 · 데이터 · 평가 |
+| 유정아 (팀장) | 기획 · 구현 |
+| 윤채원 | 데이터 · 평가 |
